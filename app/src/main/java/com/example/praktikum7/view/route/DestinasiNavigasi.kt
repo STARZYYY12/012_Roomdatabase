@@ -1,4 +1,4 @@
-package com.example.praktikum7.uicontroller
+package com.example.praktikum7.view.route
 
 interface DestinasiNavigasi {
     /**
